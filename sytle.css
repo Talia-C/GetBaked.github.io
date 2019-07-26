@@ -1,0 +1,35 @@
+h1{
+  font-size: 90px
+}
+h2{
+  font-size: 40px
+}
+body{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+body{
+  background-color: #FFF8EE;
+  font-family: sans-serif;
+}
+p{
+  font-size: 40px;
+  font-family: sans-serif;
+}
+h1{
+  font-family: sans-serif;
+  font-size: 80px
+}
+a:link, a:visited {
+  background-color: #911D12;
+  color: #FFF8EE;
+  border: 2px solid #911D12;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px
+}
+a:hover, a:active {
+  background-color: #FFF8EE;
+  color: black;
